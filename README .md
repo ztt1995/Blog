@@ -36,4 +36,19 @@ react全家桶+express实战个人博客系列教程
 * Mongodb
 * Mongoose
 
+## 环境
+node @7.9.0
+db @3.4.0
+...
+别的就直接npm install 了
+
+### 注意MongoDB初始化后需要初始化一个admin/admin账户，用于登录后台管理运行
+
+### 运行
+#### npm start
+### 独立打包
+#### npm run build
+### 生产环境启动
+#### npm run start-prod
+
 该项目是学习作者 Neal_yang 的博客项目
